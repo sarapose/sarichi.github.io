@@ -5,9 +5,9 @@ subtitle: Resumen / Summary
 ---
 ### Métricas
 
-### Publicaciones / Papers
+### Publicaciones / Papers: 462
 
-### Proyectos / Research grants
+### Proyectos / Research grants 30.77 M€
 
 ### Contratos / Contracts
 
