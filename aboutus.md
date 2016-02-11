@@ -4,7 +4,7 @@ title: RyCUMA
 subtitle: Basic info about the "Ramón y Cajal" program
 ---
 
-Ramon y Cajal Fellowships are sub part of the National Plan for Scientific Research, Technology and Innovation which aim to incorporate national and foreign researchers with an outstanding track record. The fellowships are of a competitive nature, with a five year duration and are intended for the hiring of researchers followed by the creation of permanent positions at those institutions of the Spanish System for Science, Technology and Innovation which are beneficiaries of the funds.  
+Ramon y Cajal fellowships are a sub part of the Spanish National Plan for Scientific Research, Technology and Innovation and are aimed to incorporate national and foreign researchers with an outstanding track record. The fellowships are of a competitive nature, with a five year duration and provide co funding for the hiring of researchers followed by the creation of permanent positions at those institutions of the Spanish System for Science, Technology and Innovation which are beneficiaries of the funds.  
 
 In addition to the initial assessment that gives access to the position, the performance of the researchers is reevaluated by the National Evaluation Agency (ANEP) during the second and fourth years of the contract.  
 
