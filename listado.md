@@ -36,7 +36,7 @@ subtitle: Nuestro colectivo / Our members
 - Juan Antonio García Ranea (Biología Molecular y Bioquímica)
   
   
-#### Antes de 2008
+#### 2001-2008
 - Maria Fernanda Suárez Marín (Biología Molecular Y Bioquímica)
 - Julia Bejar Alvarado (Biología Celular, Genética y Fisiología)
 - María Segovia Azcorra (Ecología y Geología)
