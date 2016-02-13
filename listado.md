@@ -4,39 +4,39 @@ title: RyCUMA
 subtitle: Nuestro colectivo / Our members
 ---
 
-### 2015
+#### 2015
 - María López Fernández (Análisis Matemático)
 
-### 2014
-- NO SE ALCANZÓ NINGÚN ACUERDO DE INCORPORACIÓN
+#### 2014
+- No se alcanzó ningún acuerdo de incorporación
 
-### 2013
+#### 2013
 - David Posé Padilla (IHSM La Mayora)
 
-### 2012
+#### 2012
 - Rocío Ponce Ortiz (Química Física)
 
-### 2011
+#### 2011
 - Sonia Osorio Algar (Biología Molecular Y Bioquímica)
 - Diego Francisco Romero Hinojosa (Microbiología)
 - Antonio Javier Matas Arroyo (Biología Vegetal)
 
-### 2010
+#### 2010
 - Antonio Díaz Ramos (Álgebra, Geometría y Topología)
 - Santiago Palanco López (Física Aplicada I)
 - María Del Carmen Ruíz Delgado (Química Física)
 
-### 2009
+#### 2009
 - Jose Ángel Peláez Márquez (Análisis Matemático)
 - Ramón Moreno Tost (Química Inorgánica, Cristalografía y Mineralogía)
 - María Isabel Santacruz Cruz (Química Inorgánica, Cristalografía y Mineralogía)
 
-### 2008
+#### 2008
 - Eligius Maria Theodorus Hendrix (Arquitectura de Computadores)
 - Juan Antonio García Ranea (Biología Molecular y Bioquímica)
   
   
-### antes de 2008
+#### Antes de 2008
 - Maria Fernanda Suárez Marín (Biología Molecular Y Bioquímica)
 - Julia Bejar Alvarado (Biología Celular, Genética y Fisiología)
 - María Segovia Azcorra (Ecología y Geología)
