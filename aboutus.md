@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RyCUMA
-subtitle: Basic info about the "Ramón y Cajal" program
+subtitle: Basic info about the "Ramón y Cajal" Programme
 ---
 
 Ramon y Cajal fellowships are a sub part of the Spanish National Plan for [Scientific Research, Technology and Innovation](http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.7eeac5cd345b4f34f09dfd1001432ea0/?vgnextoid=83b192b9036c2210VgnVCM1000001d04140aRCRD) and are aimed to incorporate national and foreign researchers with an outstanding track record. The fellowships are of a competitive nature, with a five year duration and provide co funding for the hiring of researchers followed by the creation of permanent positions at those institutions of the Spanish System for Science, Technology and Innovation which are beneficiaries of the funds like the [University of Málaga](http://www.uma.es).
