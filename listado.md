@@ -5,45 +5,46 @@ subtitle: Nuestro colectivo / Our members
 ---
 
 ### 2015
-- MARÍA LÓPEZ FERNÁNDEZ
+- María López Fernández (Análisis Matemático)
 
 ### 2014
 - NO SE ALCANZÓ NINGÚN ACUERDO DE INCORPORACIÓN
 
 ### 2013
-- POSÉ PADILLA, DAVID
+- David Posé Padilla (IHSM La Mayora)
 
 ### 2012
-- ROCÍO PONCE ORTIZ
+- Rocío Ponce Ortiz (Química Física)
 
 ### 2011
-- OSORIO ALGAR, SONIA
-- ROMERO HINOJOSA, DIEGO FRANCISCO
-- MATAS ARROYO, ANTONIO JAVIER
+- Sonia Osorio Algar (Biología Molecular Y Bioquímica)
+- Diego Francisco Romero Hinojosa (Microbiología)
+- Antonio Javier Matas Arroyo (Biología Vegetal)
 
 ### 2010
-- DIAZ RAMOS, ANTONIO
-- PALANCO LOPEZ, SANTIAGO
-- RUIZ DELGADO, MARIA DEL CARMEN
+- Antonio Díaz Ramos (Álgebra, Geometría y Topología)
+- Santiago Palanco López (Física Aplicada I)
+- María Del Carmen Ruíz Delgado (Química Física)
 
 ### 2009
-- PELAEZ MARQUEZ, JOSE ANGEL  (ANALISIS MATEMATICO) FACULTAD DE CIENCIAS
-- MORENO TOST, RAMON (QUIM. INORG.,CRISTALOG. Y MINERALOGIA) FACULTAD DE CIENCIAS
-- SANTACRUZ CRUZ, MARIA ISABEL (QUIM. INORG.,CRISTALOG. Y MINERALOGIA) FACULTAD DE CIENCIAS
+- Jose Ángel Peláez Márquez (Análisis Matemático)
+- Ramón Moreno Tost (Química Inorgánica, Cristalografía y Mineralogía)
+- María Isabel Santacruz Cruz (Química Inorgánica, Cristalografía y Mineralogía)
 
 ### 2008
-- HENDRIX, ELIGIUS MARIA THEODORUS (ARQUITECTURADECOMPUTADORES) ES.T.S.I. DE INFORMATICA
-- GARCIA RANEA, JUAN ANTONIO (BIOLOGIA MOLECULAR Y BIOQUIMIICA) FACULTAD DE CIENCIAS
+- Eligius Maria Theodorus Hendrix (Arquitectura de Computadores)
+- Juan Antonio García Ranea (Biología Molecular y Bioquímica)
+  
+  
+### antes de 2008
+- Maria Fernanda Suárez Marín (Biología Molecular Y Bioquímica)
+- Julia Bejar Alvarado (Biología Celular, Genética y Fisiología)
+- María Segovia Azcorra (Ecología y Geología)
+- José Lozano Castro (Biología Molecular y Bioquímica)
+- Francisco Javier Ruíz Cantón (Biología Molecular y Bioquímica)
+- Francisco Javier López Gordillo (Ecología Y Geología)
+- Ana Grande Pérez (Biología Celular, Genética Y Fisiología)
+- María Ángeles Larrubia Vargas (Ingeniería Química)
+- José Miguel Vadillo Pérez (Química Analítica)
+- Juan Casado Cordón (Química Física)
 
-
-### ANTES DE 2008
-- SUAREZ MARIN, MARIA FERNANDA (BIOLOGIA MOLECULAR Y BIOQUIMIICA) FACULTAD DE CIENCIAS
-- JULIA BEJAR ALVARADO (BIOLOGÍA CELULAR, GENÉTICA Y FISIOLOGÍA) FACULTAD DE CIENCIAS
-- MARIA SEGOVIA AZCORRA (ECOLOGÍA Y GEOLOGÍA) FACULTAD DE CIENCIAS
-- JOSE LOZANO CASTRO (BIOLOGÍA MOLECULAR Y BIOQUÍMICA) FACULTAD DE CIENCIAS
-- FRANCISCO JAVIER RUIZ CANTON (BIOLOGÍA MOLECULAR Y BIOQUÍMICA) FACULTAD DE CIENCIAS
-- FRANCISCO JAVIER LOPEZ GORDILLO (ECOLOGÍA Y GEOLOGÍA) FACULTAD DE CIENCIAS
-- ANA GRANDE PEREZ (BIOLOGÍA CELULAR, GENÉTICA Y FISIOLOGÍA) FACULTAD DE CIENCIAS
-- MARIA ANGELES LARRUBIA VARGAS (INGENIERÍA QUÍMICA) FACULTAD DE CIENCIAS
-- JOSÉ MIGUEL VADILLO PÉREZ (QUÍMICA ANALÍTICA) FACULTAD DE CIENCIAS
-- JUAN CASADO CORDÓN (QUÍMICA FÍSICA) FACULTAD DE CIENCIAS
