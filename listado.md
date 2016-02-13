@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RyCUMA
-subtitle: Nuestro colectivo / Our members
+subtitle: Nuestro colectivo / Members
 ---
 
 #### 2015
