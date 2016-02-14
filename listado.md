@@ -24,7 +24,7 @@ subtitle: Nuestro colectivo / Members
 #### 2010
 - Antonio Díaz Ramos (Álgebra, Geometría y Topología)
 - Santiago Palanco López (Física Aplicada I)
-- María Del Carmen Ruíz Delgado (Química Física)
+- María Del Carmen Ruiz Delgado (Química Física)
 
 #### 2009
 - Jose Ángel Peláez Márquez (Análisis Matemático)
@@ -34,17 +34,28 @@ subtitle: Nuestro colectivo / Members
 #### 2008
 - Eligius Maria Theodorus Hendrix (Arquitectura de Computadores)
 - Juan Antonio García Ranea (Biología Molecular y Bioquímica)
-  
-  
-#### 2001-2008
+
+#### 2006
 - Maria Fernanda Suárez Marín (Biología Molecular Y Bioquímica)
-- Julia Bejar Alvarado (Biología Celular, Genética y Fisiología)
+
+#### 2004
+- Ana Grande Pérez (Biología Celular, Genética Y Fisiología)
+
+#### 2003
+- María Ángeles Larrubia Vargas (Ingeniería Química)
+- Carmen del Rosario Beuzón López (Biología Celular, Genética y Fisiología)
+- Francisco Javier Ruiz Cantón (Biología Molecular y Bioquímica)
+
+#### 2002
+- Juan Casado Cordón (Química Física)
+- José Aguilera Arjona (Medicina y Dermatología)
+- José Miguel Vadillo Pérez (Química Analítica)
+
+#### 2004-2007
 - María Segovia Azcorra (Ecología y Geología)
 - José Lozano Castro (Biología Molecular y Bioquímica)
 - Francisco Javier Ruíz Cantón (Biología Molecular y Bioquímica)
 - Francisco Javier López Gordillo (Ecología Y Geología)
-- Ana Grande Pérez (Biología Celular, Genética Y Fisiología)
-- María Ángeles Larrubia Vargas (Ingeniería Química)
-- José Miguel Vadillo Pérez (Química Analítica)
-- Juan Casado Cordón (Química Física)
 
+#### JJ.AA.
+- Julia Bejar Alvarado (Biología Celular, Genética y Fisiología)
