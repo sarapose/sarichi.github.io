@@ -27,11 +27,11 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  English: "aboutus"
+  Bienvenida: ""
+  Welcome: "aboutus"
 #  Noticias: "blog"
-  Colectivo: "listado"
-  Producción: "produccion"
+  Colectivo/Members: "listado"
+  Producción/Productivity: "produccion"
 
 # --- Footer options --- #
 
