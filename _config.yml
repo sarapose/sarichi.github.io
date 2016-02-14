@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Bienvenida: ""
   Welcome: "aboutus"
-#  Noticias: "blog"
+  Noticias: "blog"
   Colectivo/Members: "listado"
   Producción/Productivity: "produccion"
 
