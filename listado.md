@@ -11,13 +11,13 @@ subtitle: Nuestro colectivo / Members
 - No se alcanzó ningún acuerdo de incorporación
 
 #### 2013
-- David Posé Padilla (Biología Molecular Y Bioquímica)
+- David Posé Padilla (Biología Molecular y Bioquímica)
 
 #### 2012
 - Rocío Ponce Ortiz (Química Física)
 
 #### 2011
-- Sonia Osorio Algar (Biología Molecular Y Bioquímica)
+- Sonia Osorio Algar (Biología Molecular y Bioquímica)
 - Diego Francisco Romero Hinojosa (Microbiología)
 - Antonio Javier Matas Arroyo (Biología Vegetal) [Web](http://goo.gl/rwRLGT)-[ORCID](http://orcid.org/0000-0003-4348-3930)-[GS](https://scholar.google.es/citations?user=oGQLLGoAAAAJ)
 
@@ -36,16 +36,16 @@ subtitle: Nuestro colectivo / Members
 - Juan Antonio García Ranea (Biología Molecular y Bioquímica)
 
 #### 2006
-- Maria Fernanda Suárez Marín (Biología Molecular Y Bioquímica)
+- Maria Fernanda Suárez Marín (Biología Molecular y Bioquímica)
 
 #### 2004-2007
 - María Segovia Azcorra (Ecología y Geología)
 - José Lozano Castro (Biología Molecular y Bioquímica)
 - Francisco Javier Ruíz Cantón (Biología Molecular y Bioquímica)
-- Francisco Javier López Gordillo (Ecología Y Geología)
+- Francisco Javier López Gordillo (Ecología y Geología)
 
 #### 2004
-- Ana Grande Pérez (Biología Celular, Genética Y Fisiología)
+- Ana Grande Pérez (Biología Celular, Genética y Fisiología)
 
 #### 2003
 - María Ángeles Larrubia Vargas (Ingeniería Química)
