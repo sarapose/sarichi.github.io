@@ -38,6 +38,12 @@ subtitle: Nuestro colectivo / Members
 #### 2006
 - Maria Fernanda Suárez Marín (Biología Molecular Y Bioquímica)
 
+#### 2004-2007
+- María Segovia Azcorra (Ecología y Geología)
+- José Lozano Castro (Biología Molecular y Bioquímica)
+- Francisco Javier Ruíz Cantón (Biología Molecular y Bioquímica)
+- Francisco Javier López Gordillo (Ecología Y Geología)
+
 #### 2004
 - Ana Grande Pérez (Biología Celular, Genética Y Fisiología)
 
@@ -50,12 +56,3 @@ subtitle: Nuestro colectivo / Members
 - Juan Casado Cordón (Química Física)
 - José Aguilera Arjona (Medicina y Dermatología)
 - José Miguel Vadillo Pérez (Química Analítica)
-
-#### 2004-2007
-- María Segovia Azcorra (Ecología y Geología)
-- José Lozano Castro (Biología Molecular y Bioquímica)
-- Francisco Javier Ruíz Cantón (Biología Molecular y Bioquímica)
-- Francisco Javier López Gordillo (Ecología Y Geología)
-
-#### JJ.AA.
-- Julia Bejar Alvarado (Biología Celular, Genética y Fisiología)
