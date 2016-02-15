@@ -23,7 +23,7 @@ subtitle: Nuestro colectivo / Members
 
 #### 2010
 - Antonio Díaz Ramos (Álgebra, Geometría y Topología)
-- Santiago Palanco López (Física Aplicada I)
+- Santiago Palanco López (Física Aplicada I) [Web](http://goo.gl/9fsVLp)-[ORCID](http://orcid.org/0000-0002-8246-7995)-[GS](https://scholar.google.es/citations?user=ob2SIvgAAAAJ)
 - María Del Carmen Ruiz Delgado (Química Física)
 
 #### 2009
