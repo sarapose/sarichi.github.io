@@ -11,7 +11,7 @@ subtitle: Nuestro colectivo / Members
 - No se alcanzó ningún acuerdo de incorporación
 
 #### 2013
-- David Posé Padilla (IHSM La Mayora)
+- David Posé Padilla (Biología Molecular Y Bioquímica)
 
 #### 2012
 - Rocío Ponce Ortiz (Química Física)
