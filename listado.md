@@ -13,6 +13,7 @@ subtitle: Nuestro colectivo / Members
 #### 2013
 - David Posé Padilla (Biología Molecular y Bioquímica)
 - María López Fernández (Análisis Matemático) [GS](https://scholar.google.com/citations?user=6honbdYAAAAJ)
+
 #### 2012
 - Rocío Ponce Ortiz (Química Física) [ORCID](http://orcid.org/0000-0002-3836-3494)-[GS](https://scholar.google.es/citations?user=wKrQwBUAAAAJ)-[ResearcherID](http://www.researcherid.com/rid/B-3730-2013)
 
@@ -38,7 +39,7 @@ subtitle: Nuestro colectivo / Members
 - Juan Antonio García Ranea (Biología Molecular y Bioquímica)
 
 #### 2006
-- Maria Fernanda Suárez Marín (Biología Molecular y Bioquímica)
+- María Fernanda Suárez Marín (Biología Molecular y Bioquímica)
 
 #### 2004-2006
 - María Segovia Azcorra (Ecología y Geología)
