@@ -11,21 +11,21 @@ subtitle: Nuestro colectivo / Members
 - No se alcanzó ningún acuerdo de incorporación
 
 #### 2013
-- David Posé Padilla (Biología Molecular y Bioquímica)
+- David Posé Padilla (Biología Molecular y Bioquímica) [ORCID](http://orcid.org/0000-0003-3332-4661)-[GS](https://scholar.google.es/citations?user=EAee2uoAAAAJ)-[Scopus](http://www.scopus.com/authid/detail.uri?authorId=26665090000)
 - María López Fernández (Análisis Matemático) [GS](https://scholar.google.com/citations?user=6honbdYAAAAJ)
 
 #### 2012
 - Rocío Ponce Ortiz (Química Física) [ORCID](http://orcid.org/0000-0002-3836-3494)-[GS](https://scholar.google.es/citations?user=wKrQwBUAAAAJ)-[ResearcherID](http://www.researcherid.com/rid/B-3730-2013)
 
 #### 2011
-- Sonia Osorio Algar (Biología Molecular y Bioquímica)
+- Sonia Osorio Algar (Biología Molecular y Bioquímica) [ORCID](http://orcid.org/0000-0002-0159-6091)-[GS](https://scholar.google.es/citations?user=HVgKJBMAAAAJ)-[ResearchGate](https://www.researchgate.net/profile/Sonia_Osorio)
 - Diego Francisco Romero Hinojosa (Microbiología)
 - Antonio Javier Matas Arroyo (Biología Vegetal) [Web](http://goo.gl/rwRLGT)-[ORCID](http://orcid.org/0000-0003-4348-3930)-[GS](https://scholar.google.es/citations?user=oGQLLGoAAAAJ)
 
 #### 2010
 - Antonio Díaz Ramos (Álgebra, Geometría y Topología)
 - Santiago Palanco López (Física Aplicada I) [Web](http://goo.gl/9fsVLp)-[ORCID](http://orcid.org/0000-0002-8246-7995)-[GS](https://scholar.google.es/citations?user=ob2SIvgAAAAJ)-[ResearcherID](http://www.researcherid.com/rid/E-3418-2012)-[Scopus](http://www.scopus.com/authid/detail.uri?authorId=6601980282)
-- María Del Carmen Ruiz Delgado (Química Física)
+- María Del Carmen Ruiz Delgado (Química Física) [ORCID](http://orcid.org/0000-0001-8180-7153)-[GS](https://scholar.google.es/citations?user=gQX-TT8AAAAJ)-[ResearcherID](http://www.researcherid.com/rid/F-7038-2013)
 
 #### 2009
 - Jose Ángel Peláez Márquez (Análisis Matemático) [Web](http://webpersonal.uma.es/~JAPELAEZ/)-[ORCID](http://orcid.org/0000-0003-2324-7308)-[GS](https://scholar.google.es/citations?user=mUHgrhEAAAAJ)
