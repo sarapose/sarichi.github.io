@@ -32,7 +32,7 @@ navbar-links:
   Noticias/News: "blog"
   Colectivo/Members: "listado"
   Producción/Productivity: "produccion"
-#  FAQ: "faq"
+  FAQ: "faq"
 
 # --- Footer options --- #
 
