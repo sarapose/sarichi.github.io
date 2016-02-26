@@ -24,12 +24,13 @@ common-js:
 
     <div role="main" class="container main-content">
       {{ content }}
+	{% include google_analytics.html %}
+    
     </div>
 
     {% include footer.html %}
 
     {% include footer-scripts.html %}
     
-	{% include google_analytics.html %}
   </body>
 </html>
