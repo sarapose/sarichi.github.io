@@ -43,7 +43,6 @@ subtitle: Nuestro colectivo / Members
 
 #### 2004-2006
 - María Segovia Azcorra (Ecología y Geología)
-- José Lozano Castro (Biología Molecular y Bioquímica)
 - Francisco Javier López Gordillo (Ecología y Geología)
 
 #### 2004
@@ -59,5 +58,7 @@ subtitle: Nuestro colectivo / Members
 - José Aguilera Arjona (Medicina y Dermatología)
 
 #### 2001
+- José Lozano Castro (Biología Molecular y Bioquímica)
 - José Miguel Vadillo Pérez (Química Analítica)
 - Francisco Javier Ruiz Cantón (Biología Molecular y Bioquímica)
+

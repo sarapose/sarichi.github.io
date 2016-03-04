@@ -32,6 +32,7 @@ navbar-links:
   Noticias/News: "blog"
   Colectivo/Members: "listado"
   Producción/Productivity: "produccion"
+  Internacionalización/InTheWorld: "mapamundi"
   FAQ: "faq"
 
 # --- Footer options --- #
