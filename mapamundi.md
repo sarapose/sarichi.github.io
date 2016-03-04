@@ -3,7 +3,4 @@ layout: map
 title: RyCUMA
 subtitle: Internacionalización -- RyCUMA in the World
 ---
-
-The map below features the worldwide connections of RyCUMA researchers with other institutions
-
-
+Connections of RyCUMA researchers with other institutions around the World
