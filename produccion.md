@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RyCUMA
-subtitle: RyCUMA en números -- Facts and figures
+subtitle: RyCUMA en números / Facts and figures
 ---
 La incorporación de Investigadores Ramón y Cajal a la Universidad de Málaga se remonta a 2001, año de la primera convocatoria de las ayudas. Los siguientes números contabilizan únicamente la aportación investigadora y docente de los 13 investigadores contratados desde la convocatoria de 2008.
   
