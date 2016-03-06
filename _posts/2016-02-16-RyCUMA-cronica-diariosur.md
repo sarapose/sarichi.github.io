@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RyCUMA en Crónica Universitaria de DiarioSur
+title: RyCUMA en Crónica Universitaria de Diario Sur
 subtitle: Insistiendo en el error de considerarnos becarios
 ---
 
