@@ -6,6 +6,7 @@ subtitle: Nuestro colectivo / Members
 
 #### 2016
 - Cristina Alcaraz Tello (Lenguajes y Ciencias de la Computación)
+
 #### 2015
 - Urtzi Buijs Martín (Álgebra, Geometría y Topología)
 
