@@ -1,0 +1,138 @@
+---
+layout: page
+title: RyCUMA
+subtitle: Noticias / News
+---
+<div class="bss-slides">
+    <figure>
+        <img src="/img/slideshow/img1.jpg" width="100%" />
+        <figcaption>Caption_1</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img2.jpg" width="100%" />
+        <figcaption>Caption_2</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img3.jpg" width="100%" />
+        <figcaption>Caption_3</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img4.jpg" width="100%" />
+        <figcaption>Caption_4</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img5.jpg" width="100%" />
+        <figcaption>Caption_5</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img6.jpg" width="100%" />
+        <figcaption>Caption_6</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img7.jpg" width="100%" />
+        <figcaption>Caption_7</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img8.jpg" width="100%" />
+        <figcaption>Caption_8</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img9.jpg" width="100%" />
+        <figcaption>Caption_9</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img10.jpg" width="100%" />
+        <figcaption>Caption_10</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img11.jpg" width="100%" />
+        <figcaption>Caption_11</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img12.jpg" width="100%" />
+        <figcaption>Caption_12</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img13.jpg" width="100%" />
+        <figcaption>Caption_13</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img14.jpg" width="100%" />
+        <figcaption>Caption_14</figcaption> 
+    </figure>
+    <figure>
+        <img src="/img/slideshow/img15.jpg" width="100%" />
+        <figcaption>Caption_15</figcaption> 
+    </figure>
+
+        <!-- more figures here as needed -->
+
+</div>
+
+	<span class="code">js/better-simple-slideshow.js</span>
+	<span class="code">css/simple-slideshow-styles.css</span>
+
+
+<script>
+	var opts = {
+            //auto-advancing slides? accepts boolean (true/false) or object
+            auto : { 
+                // speed to advance slides at. accepts number of milliseconds
+                speed : 2500, 
+                // pause advancing on mouseover? accepts boolean
+                pauseOnHover : false 
+            },
+            // show fullscreen toggle? accepts boolean
+            fullScreen : false, 
+            // support swiping on touch devices? accepts boolean, requires hammer.js
+            swipe : false 
+        };
+
+makeBSS('.bss-slides', opts);
+
+</script>
+
+
+
+
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+
+    <div class="post-entry">
+      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
