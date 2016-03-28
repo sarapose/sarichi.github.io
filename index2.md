@@ -4,7 +4,7 @@ title: RyCUMA
 subtitle: Investigadores Ramón y Cajal -- Universidad de Málaga 
 ---
 <center>
-<p><b>Es<a href="#En">En</a> </b></p>
+<p><b>Es</b>|<a href="#En">En</a></p>
 <a id="Es"></a>
 </center>
 
@@ -15,7 +15,8 @@ Además de la evaluación inicial que da acceso al contrato laboral, el rendimie
 También durante el cuarto año y con caracter voluntario, los investigadores pueden someterse a una evaluación adicional para la obtención de la Certificación I3 a efectos del Programa de Incentivación de la Incorporación e Intensificación de la Actividad Investigadora [Programa I3](http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=28b5b76fb9bbf210VgnVCM1000001d04140aRCRD) por el cual la institución percibe una cantidad equivalente al sueldo bruto de un Profesor Contratado Doctor durante tres años para la estabilización laboral de los investigadores en poder de dicha certificación.  
   
 <center>
-	[Es](#Es) | **En** <a id="En"></a>
+<p><a href="#Es">Es</a>|<b>En</b></p>
+<a id="En"></a>
 </center>
 
 Ramon y Cajal fellowships are a sub part of the Spanish National Plan for [Scientific Research, Technology and Innovation](http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.7eeac5cd345b4f34f09dfd1001432ea0/?vgnextoid=83b192b9036c2210VgnVCM1000001d04140aRCRD) and are aimed to incorporate national and foreign researchers with an outstanding track record. The fellowships are of a competitive nature, with a five year duration and provide co funding for the hiring of researchers followed by the creation of permanent positions at those institutions of the Spanish System for Science, Technology and Innovation which are beneficiaries of the funds like the [University of Málaga](http://www.uma.es).  
