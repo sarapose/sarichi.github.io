@@ -4,7 +4,8 @@ title: RyCUMA
 subtitle: Investigadores Ramón y Cajal -- Universidad de Málaga 
 ---
 <center>
-**Es** | [En](#En) <a id="Es"></a>
+<p><b>Es<a href="#En">En</a> </b></p>
+<a id="Es"></a>
 </center>
 
 El Subprograma Ramón y Cajal forma parte del [Plan Estatal de Investigación Científica, Técnica y de Innovación](http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.7eeac5cd345b4f34f09dfd1001432ea0/?vgnextoid=83b192b9036c2210VgnVCM1000001d04140aRCRD) y tiene como objetivo la incorporación de investigadores nacionales y extranjeros con una trayectoria destacada. Las ayudas son de caracter competitivo, tienen una duración de cinco años y están destinadas a la contratación laboral de los investigadores seguida de la creación de puestos de trabajo de carácter permanente en los agentes del Sistema Español de Ciencia, Tecnología e Innovación beneficiarios de estas ayudas, como la [Universidad de Málaga](http://www.uma.es/).  
