@@ -33,6 +33,7 @@ navbar-links:
   Colectivo/Members: "listado"
   Producción/Productivity: "produccion"
   Internacionalización/Networking: "mapamundi"
+  Galería/Gallery: "slideshow"
   FAQ: "faq"
 
 # --- Footer options --- #
