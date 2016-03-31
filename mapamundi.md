@@ -1,6 +1,6 @@
 ---
 layout: map
-title: RyCUMA
+title: AGR226
 subtitle: Internacionalización / Networking
 ---
-Connections of RyCUMA researchers with other institutions around the World
+Connections around the World
