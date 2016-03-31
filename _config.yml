@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "http://rycuma.github.io"
+url: "http://hortfrubiotech.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: RyCUMA
+title: Mejora y Biotecnología de Especies Hortofrutícolas
 
 # Short description of your site
-description: Colectivo de Investigadores Ramón y Cajal en la Universidad de Málaga
+description: Web del Grupo de Investigación "Mejora y Biotecnología de Especies Hortofrutícolas" (AGR-226) del Departamento de Biología Vegetal de la UMA.
 
 # --- Navigation bar options --- #
 
@@ -41,8 +41,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Colectivo RyCUMA
-  email: "contacto.rycuma@gmail.com"
+  name: AGR-226
+  email: "gefpdb@uma.es"
   # facebook: yourname  # eg. daattali
   # github: yourname    # eg. daattali
   # twitter: yourname   # eg. daattali
@@ -61,7 +61,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "rycuma.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "hortfruitbiotech.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
