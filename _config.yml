@@ -14,7 +14,7 @@ url: "http://legodark.github.io"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Rama de Mejora y Biotecnología de Especies Hortofrutícolas
+title: Mejora y Biotecnología de Especies Hortofrutícolas
 
 # Short description of your site
 description: Web del Grupo de Investigación "Mejora y Biotecnología de Especies Hortofrutícolas" (AGR-226) del Departamento de Biología Vegetal de la UMA.
@@ -41,7 +41,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Fruit
+  name: legodark
   email: "gefpdb@uma.es"
   # facebook: yourname  # eg. daattali
   # github: yourname    # eg. daattali
