@@ -27,13 +27,14 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Bienvenida/Welcome: "cajas"
+  Bienvenida/Welcome: ""
 #  Welcome: "aboutus"
   Noticias/News: "blog"
   Colectivo/Members: "listado"
   Producción/Productivity: "produccion"
   Internacionalización/Networking: "mapamundi"
   Galería/Gallery: "slideshow"
+  MisPruebas: "cajas"
   FAQ: "faq"
 
 # --- Footer options --- #
