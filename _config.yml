@@ -27,7 +27,7 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Bienvenida/Welcome: ""
+  Bienvenida/Welcome: "cajas"
 #  Welcome: "aboutus"
   Noticias/News: "blog"
   Colectivo/Members: "listado"
