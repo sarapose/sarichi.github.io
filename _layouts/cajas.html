@@ -1,12 +1,20 @@
 ---
 common-css:
   - "/css/micss.css"
+  - "/css/bootstrap.min.css"
+  - "/css/main.css"
 ---
 <html>
+	{% include head.html %}
 <header class="header-post">
-<link href="micss.css" rel="stylesheet" type="text/css">
+<!-- <link href="micss.css" rel="stylesheet" type="text/css"> -->
 </header>
 <body>
+	{% include nav.html %}
+	<div role="main" class="container main-content">
+      {{ content }}
+    
+    </div>
 	<div class="contenedor">
 		<div class="elemento elemento1">
 			<p></p>
@@ -34,5 +42,11 @@ common-css:
 				<div class="mini mini12"></div>
 		</div>
 	</div>
+	{% include footer.html %}
+
+    {% include footer-scripts.html %}
+    
+	{% include gostats.html %}
+
 </body>
 </html>
