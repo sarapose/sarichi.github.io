@@ -19,12 +19,12 @@
 }
 .elemento {
   color:#fff;
-  margin: center;
   height: 200px;
   width: 300px;
   background: #E67E22;
   color: white;
   text-align:center;
+  padding: 10px;
   
  /* display: flex;*/
  
