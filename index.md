@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AGR226
-subtitle: Mejora y Biotecnología de Especies Hortofrutícolas
+title: Mejora y Biotecnología de Especies Hortofrutícolas
+subtitle: AGR226
 ---
 <a id="Es"></a>
 <center>
