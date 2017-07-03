@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mejora y Biotecnología de Especies Hortofrutícolas
-subtitle: Proyecto AGR226 Universidad de Málaga
+title: Proyecto AGR226
+subtitle: Universidad de Málaga / Facultad de Ciencias
 ---
 <a id="Es"></a>
 <center>
@@ -43,7 +43,7 @@ Grupo de investigación formado por personal de la UMA y del IFAPACentro de Chur
 MEJORA Y BIOTECNOLOGIA DE ESPECIES HORTOFRUTICOLASMEJORA Y BIOTECNOLOGIA DE ESPECIES HORTOFRUTICOLASMEJORA Y BIOTECNOLOGIA DE ESPECIES HORTOFRUTICOLAS
 
  
-###Contacto
+### Contacto
 
 Investigador Responsable: FERNANDO PLIEGO ALFARO
 
