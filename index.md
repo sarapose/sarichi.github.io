@@ -17,7 +17,9 @@ subtitle: Proyecto AGR226 Universidad de Málaga
 
 <p>Our work group has established several lines of research related to the improvement by biotechnological methods of plant species of high agronomic interest. We work on aspects related to micropropagation, organogenic and embryogenic regeneration, and genetic transformation. This last aspect is approached from an experimental point of view, to determine the function of certain genes, as applied, with genes that improve the agronomic characteristics of the crop.</p>
 
-MEJORA Y BIOTECNOLOGIA DE ESPECIES HORTOFRUTICOLAS
+***
+
+# MEJORA Y BIOTECNOLOGIA DE ESPECIES HORTOFRUTICOLAS
 
 
 Grupo de investigación formado por personal de la UMA y del IFAPACentro de Churriana. En la actualidad está constituido por 12 personas, 5 doctores activos y el resto, becarios y personal técnico. Centra su actividad en la regeneración y transformación genética de especies de interés hortofrutícola (fresa, olivo, aguacate).
@@ -35,17 +37,18 @@ Grupo de investigación formado por personal de la UMA y del IFAPACentro de Chur
 
     * Control de la maduración de frutos mediante ingeniería genética.
     * Micropropagación de plantas leñosas.
-    * Regeneración y transformación genética de especies frutales con genes que confieren tolerancia a patógenos.
+    * Regeneración y transformación genética de especies frutales con genes que confieren tolerancia 
+	  a patógenos.
 
 MEJORA Y BIOTECNOLOGIA DE ESPECIES HORTOFRUTICOLASMEJORA Y BIOTECNOLOGIA DE ESPECIES HORTOFRUTICOLASMEJORA Y BIOTECNOLOGIA DE ESPECIES HORTOFRUTICOLAS
 
  
-Contacto
+###Contacto
 
 Investigador Responsable: FERNANDO PLIEGO ALFARO
 
 Referencia PAI: AGR226
 
-[Con titulo](http://ofertaidi.uma.es/contacto.php?idgrupo=AGR226)"Contactar"
+[Contactar](http://ofertaidi.uma.es/contacto.php?idgrupo=AGR226)
 
 
