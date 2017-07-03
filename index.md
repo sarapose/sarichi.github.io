@@ -52,7 +52,8 @@ Referencia PAI: AGR226
 [Contactar](http://ofertaidi.uma.es/contacto.php?idgrupo=AGR226)         
 
 ---
-![logo-pdf](\img\slideshow\pdf.jpg)
+![logo-pdf](/img/slideshow/pdf.jpg)
+
 [Ficha](http://ofertaidi.uma.es/fichas/AGR226.pdf)
 
 
