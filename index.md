@@ -49,6 +49,6 @@ Investigador Responsable: FERNANDO PLIEGO ALFARO
 
 Referencia PAI: AGR226
 
-[Contactar](http://ofertaidi.uma.es/contacto.php?idgrupo=AGR226)
+[Contactar](http://ofertaidi.uma.es/contacto.php?idgrupo=AGR226) | [Ficha](http://ofertaidi.uma.es/fichas/AGR226.pdf)
 
 
