@@ -42,7 +42,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: legodark
+  name: AGR226
   email: "gefpdb@uma.es"
   # facebook: yourname  # eg. daattali
   # github: yourname    # eg. daattali
@@ -56,13 +56,13 @@ footer-links-active:
   facebook: false
   email: true
   twitter: false
-  github: true
+  github: false
   linkedin: false
   stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "hortfruitbiotech.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "hortfruitbiotech.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
