@@ -7,12 +7,9 @@
 }
 
 .body {
-	position: relative;
-	margin-top: 1%;
-	margin-left: 9%;
 	background:url(bg.jpg) transparent;
 	background-size:cover;
-	color:black;
+	color:#fff;
 	font-size: 16px;	
 }
 
@@ -36,21 +33,21 @@
 .fecha {
 	font-family: Oswald, Arial;
 	text-align: center;
-	font-size:0.9em;
-	margin-botton: 0.3125rem;
-	/*margin-bottom: 5px;*/
-	background: rgba(0,0,0,0);
-	padding: 10px;
-	width: 100%;
+	font-size:1.5em;
+	/*margin-botton: 0.3125rem;*/
+	margin-bottom: 5px;
+	background: rgba(0,0,0,.5);
+	padding: 20px;
+	width: 10%;	
 }
 
 .reloj {
 	font-family: Oswald, Arial;
-	width: 100%;
-	padding: 5px;
-	font-size: 1em;
+	width: 10%;
+	padding: 20px;
+	font-size: 4em;
 	text-align: center;
-	background: rgba(0,0,0,0);
+	background: rgba(0,0,0,.5);
 }
 
 .reloj .caja-segundos {
@@ -59,7 +56,7 @@
 
 .reloj .segundos,
 .reloj .ampm {
-	font-size: 1rem;
+	font-size: 2rem;
 	display: block;
 }
 
