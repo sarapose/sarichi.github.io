@@ -14,14 +14,14 @@
 }
 
 .wrap {
-	width: 90%;
-	max-width: 1000px;
+	width: 50%;
+	max-width: 500px;
 	/*margin:auto;*/	
 }
 
 .widget {
 	width: 40%;
-	margin: 2em;
+	margin: 1em;
 	/*margin:32px;*/	
 }
 
