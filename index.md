@@ -3,6 +3,7 @@ layout: page
 title: Proyecto AGR226
 subtitle: Universidad de Málaga / Facultad de Ciencias
 ---
+{% include reloj.html %}
 <a id="Es"></a>
 <center>
 <p><b>Es</b>|<a href="#En">En</a></p>
