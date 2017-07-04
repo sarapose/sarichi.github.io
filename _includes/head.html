@@ -14,6 +14,9 @@
   <link rel="stylesheet" href="/css/simple-slideshow-styles.css">
   
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml">
+  
+  <link rel="stylesheet" href="/css/reloj.css">
+  <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
 
   
  <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
@@ -103,3 +106,30 @@
   {% endif %}
   
 </head>
+<body>
+<div class="body">
+	<div class="wrap">
+		<div class="widget">
+			<div class="fecha">
+				<p id="diaSemana" class="diaSemana"></p>
+				<p id="dia" class="dia"></p>
+				<p>de </p>
+				<p id="mes" class="mes"></p>
+				<p>del </p>
+				<p id="year" class="year"></p>
+			</div>
+			
+			<div class="reloj">
+				<p id="horas" class="horas"></p>
+				<p>:</p>
+				<p id="minutos" class="minutos"></p>
+				<p>:</p>
+				<div class="caja-segundos">
+					<p id="ampm" class="ampm"></p>
+					<p id="segundos" class="segundos"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="/js/reloj.js"></script>
+</body>
