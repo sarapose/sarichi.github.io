@@ -7,17 +7,25 @@
 }*/
 
 .body {
-	position: relative;
 	background:url(bg.jpg) transparent;
 	background-size:cover;
 	color:black;
-	font-size: 16px;	
+	font-size: 16px;
+
+	display: flex;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+  
+	flex-direction:row;
+	flex-wrap:wrap; 
+  
+	justify-content: flex-start;	
 }
 
 .wrap {
 	width: 90%;
-	top: 10%;
-	bottom: 10%;
+	margin-top: 100px;
+	margin-left: 20%;
 	max-width: 480px;
 	/*margin:auto;*/	
 }
