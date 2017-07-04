@@ -28,7 +28,7 @@
         {% else %}
           {% capture linkurl %}{{ link[1] }}{% endcapture %}
         {% endif %}
-
+			{% include nav.html %}
 	      <a href="{{ linkurl }}">{{ link[0] }}</a>
 	      </li>
 	    {% endfor %}
