@@ -35,7 +35,7 @@ navbar-links:
 # Internacionalización/Networking: "mapamundi"
   Galería/Gallery: "slideshow"
   MisPruebas: "cajas"
-# FAQ: "faq"
+  # FAQ: "faq"
 
 # --- Footer options --- #
 
