@@ -15,14 +15,14 @@
 
 .wrap {
 	width: 50%;
-	max-width: 500px;
+	max-width: 1000px;
 	max-height: 500px;
 	/*margin:auto;*/	
 }
 
 .widget {
 	width: 40%;
-	margin: 1em;
+	margin: 2em;
 	/*margin:32px;*/	
 }
 
