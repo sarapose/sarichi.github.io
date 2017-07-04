@@ -35,6 +35,7 @@ navbar-links:
 # Internacionalización/Networking: "mapamundi"
   Galería/Gallery: "slideshow"
   MisPruebas: "cajas"
+  {% include reloj.html %}
 # FAQ: "faq"
 
 # --- Footer options --- #
