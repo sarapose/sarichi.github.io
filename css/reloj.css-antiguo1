@@ -21,13 +21,13 @@
 }
 
 .wrap {
-	width: 150px;
+	width: 500px;
 	max-width: 480px;
 	/*margin:auto;*/	
 }
 
 .widget {
-	width: 150px;
+	width: 500px;
 	/*margin: 0em;*/
 	/*margin:32px;*/	
 }
@@ -43,18 +43,18 @@
 	font-size:0.9em;
 	margin-botton: 0.3125rem;
 	/*margin-bottom: 5px;*/
-	background: rgba(0,0,0,0.01);
+	background: rgba(0,0,0,0);
 	padding: 5px;
-	width: 150px;
+	width: 500px;
 }
 
 .reloj {
 	font-family: Oswald, Arial;
-	width: 150px;
+	width: 500px;
 	padding: 5px;
 	font-size: 1em;
 	text-align: center;
-	background: rgba(0,0,0,0.01);
+	background: rgba(0,0,0,0);
 }
 
 .reloj .caja-segundos {
