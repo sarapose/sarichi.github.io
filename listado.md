@@ -20,5 +20,7 @@ subtitle: Personal / Lab Members
 
 ![Elena](/fotos/elena.jpg) Elena Palomo Rios (Biología Vegetal) [Web]()-[ORCID]()-[GS]()
 
+![Fatiha](/fotos/fatiha.jpg) Fatiha Bradai (Biología Vegetal) [Web]()-[ORCID]()-[GS]()
+
 ![Sara](/fotos/sarita.JPG) Sara Posé Albacete (Biología Vegetal) [Web]()-[ORCID]()-[GS]()
 
