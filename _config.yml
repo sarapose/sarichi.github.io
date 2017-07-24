@@ -31,7 +31,6 @@ navbar-links:
 #  Welcome: "aboutus"
   Noticias/News: "blog"
   Colectivo/Members: "listado"
-  - Pruebadespegable: ""
 # Producción/Productivity: "produccion"
 # Internacionalización/Networking: "mapamundi"
   Galería/Gallery: "slideshow"
