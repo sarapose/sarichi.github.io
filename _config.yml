@@ -30,7 +30,8 @@ navbar-links:
   Bienvenida/Welcome: ""
 #  Welcome: "aboutus"
   Noticias/News: "blog"
-  Colectivo/Members: "listado"
+  Colectivo/Members: 
+    - Miembros: "listado"  
 # Producción/Productivity: "produccion"
 # Internacionalización/Networking: "mapamundi"
   Galería/Gallery: "slideshow"
