@@ -31,7 +31,7 @@ navbar-links:
 #  Welcome: "aboutus"
   Noticias/News: "blog"
   Colectivo/Members: 
-    - Miembros: "listado"  
+    - Miembros: "https://legodark.github.io/listado/"  
 # Producción/Productivity: "produccion"
 # Internacionalización/Networking: "mapamundi"
   Galería/Gallery: "slideshow"
