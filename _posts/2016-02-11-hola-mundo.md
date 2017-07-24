@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¡¡Hola Mundo!!
+title: ¡¡AGR226!!
 subtitle: AGR226 estrena nueva web
 ---
 
