@@ -34,3 +34,5 @@ Para ello, testaron varios genes y comprobaron que la función de degradación d
 La reintroducción del gen se realiza mediante la aplicación de una bacteria denominada Agrobacterium. Este patógeno lo integra en el genoma de la planta y una vez se ha fijado el cambio genético, se elimina con antibióticos. "Este proceso requiere de un medio estéril y a pequeña escala, para lo cual empleamos tarros de cultivo similares a los tarros de mermelada que llevan un medio especial con sales minerales y fuentes de carbono. A partir de ahí, regeneramos la planta y obtenemos frutos más resistentes", pormenoriza el responsable del estudio.
 
 Los responsables de este estudio, financiado por el Ministerio de Economía, Industria y Competitividad, llevan 15 años trabajando sobre esta misma línea de investigación y pretenden ampliar estos estudios de mejora de especies hortofrutículas abarcando otras plantaciones con una alta producción en Andalucía, como son el aguacate y el olivo.
+
+[Enlace Noticia](http://www.diariosur.es/universidad/investigadores-identifican-retrasa-20170711114432-nt.html)
