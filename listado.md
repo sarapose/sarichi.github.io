@@ -26,5 +26,5 @@ subtitle: Personal / Lab Members
 
 ---
 
-[Web del Departamento](https://www.uma.es/departamento-de-biologia-vegetal-botanica-y-fisiologia-vegetal/info/50092/mejora-y-biotecnologia-de-especies-hortofruticolas-dpto-bioveg/?set_language=en) - [Antiguos Miembros] (http://hortfrubiotech.github.io/listado-antiguoal/)
+[Web del Departamento](https://www.uma.es/departamento-de-biologia-vegetal-botanica-y-fisiologia-vegetal/info/50092/mejora-y-biotecnologia-de-especies-hortofruticolas-dpto-bioveg/?set_language=en) - [Antiguos Miembros](http://hortfrubiotech.github.io/listado-antiguoal/)
 
