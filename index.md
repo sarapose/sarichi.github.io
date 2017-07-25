@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proyecto AGR226
+title: Mejora y Biotecnología de Especies Hortofrutícola
 subtitle: Universidad de Málaga / Facultad de Ciencias
 ---
 
