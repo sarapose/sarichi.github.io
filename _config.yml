@@ -34,7 +34,7 @@ navbar-links:
 # Producción/Productivity: "produccion"
 # Internacionalización/Networking: "mapamundi"
   Galería/Gallery: "slideshow"
-  MisPruebas: "cajas"
+# MisPruebas: "cajas"
 # FAQ: "faq"
 
 # --- Footer options --- #

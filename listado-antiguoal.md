@@ -4,6 +4,7 @@ title: AGR226
 subtitle: Personal / Lab Members
 ---
 
+# A Modificar
 #### PDI
 
 ![Fernando](/fotos/fernando.jpg) Fernando Pliego Alfaro (Biología Vegetal) [Web](https://www.uma.es/departamento-de-biologia-vegetal-botanica-y-fisiologia-vegetal/info/71741/fernando-pliego-alfaro/)-[ORCID](http://orcid.org/0000-0001-8176-072X)-[GS](https://scholar.google.es/citations?user=ofaUQdQAAAAJ&hl=es)
@@ -26,5 +27,5 @@ subtitle: Personal / Lab Members
 
 ---
 
-[Web del Departamento](https://www.uma.es/departamento-de-biologia-vegetal-botanica-y-fisiologia-vegetal/info/50092/mejora-y-biotecnologia-de-especies-hortofruticolas-dpto-bioveg/?set_language=en) - [Antiguos Miembros] (/listado-antiguosal.md)
+[Web del Departamento](https://www.uma.es/departamento-de-biologia-vegetal-botanica-y-fisiologia-vegetal/info/50092/mejora-y-biotecnologia-de-especies-hortofruticolas-dpto-bioveg/?set_language=en)
 
