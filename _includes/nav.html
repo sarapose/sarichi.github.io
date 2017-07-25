@@ -9,7 +9,7 @@
       </button>
 
     </div>
-
+						
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
 	    {% for link in site.navbar-links %}
@@ -28,7 +28,7 @@
         {% else %}
           {% capture linkurl %}{{ link[1] }}{% endcapture %}
         {% endif %}
-
+			
 	      <a href="{{ linkurl }}">{{ link[0] }}</a>
 	      </li>
 	    {% endfor %}
