@@ -23,8 +23,8 @@ layout: default
   <div style="text-align: justify"> 
     {{ content }}
 	{% if page.comments %}
-	<center>{% include reloj.html %}</center>
   </div>
+    {% include reloj.html %}
     <div class="disqus-comments">
 	  {% include disqus.html %}
     </div>
