@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mejora y Biotecnología de Especies Hortofrutícola
+title: Mejora y Biotecnología de Especies Hortofrutícolas
 subtitle: Universidad de Málaga / Facultad de Ciencias
 ---
 
