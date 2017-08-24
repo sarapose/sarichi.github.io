@@ -18,7 +18,8 @@
 	<div id="minav">
       <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
-        {% if link[1].first %}
+	      {% capture before %}{{ link[1] | split: "://" | first }}{% endcapture %}
+	      {% capture after %}{{ link[1] | split: "://" | last }}{% endcapture %}
           <li class="navlinks-container">
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
             <div class="navlinks-children">
