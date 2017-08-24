@@ -36,6 +36,11 @@ navbar-links:
   Galería/Gallery: "slideshow"
 # MisPruebas: "cajas"
 # FAQ: "faq"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://deanattali.com"
 
 # --- Footer options --- #
 
