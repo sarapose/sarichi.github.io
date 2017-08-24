@@ -33,7 +33,8 @@ navbar-links:
   Colectivo/Members: "listado"
 # Producción/Productivity: "produccion"
 # Internacionalización/Networking: "mapamundi"
-  Galería/Gallery: "slideshow"
+  Galería/Gallery: 
+    - Galería/Gallery: "slideshow"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
