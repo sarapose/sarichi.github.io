@@ -557,7 +557,7 @@ footer .theme-by {
 }
 @media only screen and (max-width: 325px) {
   .intro-header.big-img {
-    height: 100%;
+    height: 50%;
   }
 }
 
