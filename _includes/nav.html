@@ -1,5 +1,5 @@
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
-  <div class="container-fluid">
+  <center><div class="container-fluid"></center>
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
         <span class="sr-only">Toggle navigation</span>
@@ -16,7 +16,7 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
 	<div id="minav">
-    <center><ul class="nav navbar-nav navbar-right">
+    <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
         {% if link[1].first %}
           <li class="navlinks-container">
@@ -36,8 +36,7 @@
         {% endif %}
         {% endfor %}
       </ul>
-	</center>
-    </div>
+	</div>
 	</div>
 
 	{% if page.image and (layout.show-avatar or page.show-avatar) %}
