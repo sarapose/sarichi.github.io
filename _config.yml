@@ -30,14 +30,16 @@ navbar-links:
   Bienvenida/Welcome: ""
 #  Welcome: "aboutus"
   Noticias/News: "blog"
-  Colectivo/Members: "listado"
+  Colectivo/Members: 
+    - Miembros/Members: "listado"
+    - Antiguos Miembros/Old Members: "listado-antiguoal"
 # Producción/Productivity: "produccion"
 # Internacionalización/Networking: "mapamundi"
   Galería/Gallery: 
-    - Galería/Gallery: "slideshow"
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Fresa: "slideshow"
+    - Olivo: "slideshow"
+    - Aguacate: "slideshow"
+  Contacto/Mas Info: "faq"
 # MisPruebas: "cajas"
 # FAQ: "faq"
   
