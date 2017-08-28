@@ -1,29 +1,11 @@
----
-layout: default
----
-
-{% if page.title %}
+{% include head.html %}
 <html lang="en">
-<head class="header-page has-img">
+<head>
 	<meta charset="UTF-8">
 	<title>Formulario de Contacto</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
 	 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<div class="big-img intro-header" style="background-image: url(/img/big-imgs/1.jpg);">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-	  <div class="page-heading">
-	    <div id="mih1">{{ page.title }}</div>
-	    <center>{% if page.subtitle %}</center>
-	    <hr class="small">
-	    <span class="page-subheading"><center>{{ page.subtitle }}</center></span>
-	    {% endif %}
-	  </div>
-    </div>
-  </div>
- </div>
 </head>
-{% endif %}
 <body>
 	<section class="container">
 		<div class="row">
