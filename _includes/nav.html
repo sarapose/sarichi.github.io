@@ -1,4 +1,4 @@
-<center><nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
@@ -16,7 +16,7 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
 	<div id="minav">
-      <ul class="nav navbar-nav navbar-right">
+    <center><ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
         {% if link[1].first %}
           <li class="navlinks-container">
@@ -36,6 +36,7 @@
         {% endif %}
         {% endfor %}
       </ul>
+	</center>
     </div>
 	</div>
 
@@ -58,4 +59,4 @@
 	{% endif %}
 
   </div>
-</nav></center>
+</nav>
