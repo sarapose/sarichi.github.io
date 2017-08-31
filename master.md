@@ -3,6 +3,8 @@ layout: page
 title: Máster en Biotecnología Avanzada
 subtitle: Universidad de Málaga / Facultad de Ciencias
 ---
+*Importante: Puede que estos datos esten obsoletos y necesiten ser revisados.
+
 | MÁSTER EN BIOTECNOLOGÍA AVANZADA |
 
 [FICHA RESUMEN PLAN DE ESTUDIOS](http://www.uma.es/media/files/BIOTECNOLOGIAAVANZADA1718.pdf)
