@@ -3,8 +3,7 @@ layout: page
 title: Máster en Biotecnología Avanzada
 subtitle: Universidad de Málaga / Facultad de Ciencias
 ---
-MÁSTER EN BIOTECNOLOGÍA AVANZADA
- 
+| MÁSTER EN BIOTECNOLOGÍA AVANZADA |
 
 [FICHA RESUMEN PLAN DE ESTUDIOS](http://www.uma.es/media/files/BIOTECNOLOGIAAVANZADA1718.pdf)
 
@@ -12,7 +11,7 @@ MÁSTER EN BIOTECNOLOGÍA AVANZADA
 
 [ACCESO AL CENTRO](http://www.uma.es/centros-listado/info/4420/facultad-de-ciencias/)
 
- 
+ ---
 
 | MEMORIA DE VERIFICACIÓN DEL TÍTULO |
 
@@ -40,7 +39,7 @@ MÁSTER EN BIOTECNOLOGÍA AVANZADA
 
  Lenguas utilizadas: Castellano
 
- 
+--- 
 
 El Título de Máster Universitario en Biotecnología Avanzada por las Universidades de Málaga e Internacional de Andalucía viene siendo ofertado desde el curso 2009/2010 como enseñanza oficial de Máster Universitario (conforme a las disposiciones contenidas en el RD 1393/2007, de 29 de octubre).
 
@@ -72,6 +71,7 @@ Campus Universitario de Teatinos
 Tel- 952 13 19 80
 E-mail: decanato@ciencias.uma.es
 
+---
 
 RESULTADOS DEL TÍTULO
 						Curso 14/15	 Curso 15/16
