@@ -55,11 +55,9 @@ Convenio interuniversitario suscrito.
  
 
 Coordinación Académica:
-
 Dr. Miguel Ángel Botella Mesa
 
 Matriculación:
-
 Universidad de Málaga - Secretaría Facultad de Ciencias.
 
 Universidad Internacional de Andalucía - Sede Málaga.
