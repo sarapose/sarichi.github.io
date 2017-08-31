@@ -30,6 +30,7 @@ navbar-links:
   Bienvenida/Welcome: ""
 #  Welcome: "aboutus"
   Noticias/News: "blog"
+  Master: "master"
   Colectivo/Members: 
     - Miembros/Members: "listado"
     - Antiguos Miembros/Old Members: "listado-antiguoal"
