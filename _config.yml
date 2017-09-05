@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "http://hortfrubiotech.github.io"
+url: "http://Legodark.github.io"
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -30,12 +30,21 @@ navbar-links:
   Bienvenida/Welcome: ""
 #  Welcome: "aboutus"
   Noticias/News: "blog"
-  Colectivo/Members: "listado"
+  Master: "master"
+  Colectivo/Members: 
+    - Miembros/Members: "listado"
+    - Antiguos Miembros/Old Members: "listado-antiguoal"
 # Producción/Productivity: "produccion"
 # Internacionalización/Networking: "mapamundi"
-  Galería/Gallery: "slideshow"
+  Galería/Gallery: 
+    - Fresa: "slideshow"
+    - Olivo: "slideshow"
+    - Aguacate: "slideshow"
+# Contacto/Mas Info: "contacto"
 # MisPruebas: "cajas"
 # FAQ: "faq"
+  
+  
 
 # --- Footer options --- #
 
@@ -45,7 +54,7 @@ author:
   name: AGR226
   email: "gefpdb@uma.es"
   # facebook: yourname  # eg. daattali
-  # github: yourname    # eg. daattali
+  github: Legodark    # eg. daattali
   # twitter: yourname   # eg. daattali
   # linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   # stackoverflow: yourlink  # eg. "3943160/daattali"

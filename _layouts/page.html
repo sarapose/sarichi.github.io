@@ -3,18 +3,21 @@ layout: default
 ---
 
 {% if page.title %}
-<header class="header-page">
+<header class="header-page has-img">
+<div class="big-img intro-header" style="background-image: url(/img/big-imgs/1.jpg);">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 	  <div class="page-heading">
 	    <div id="mih1">{{ page.title }}</div>
-	    {% if page.subtitle %}
+	    <center>{% if page.subtitle %}</center>
 	    <hr class="small">
-	    <span class="page-subheading">{{ page.subtitle }}</span>
+	    <span class="page-subheading"><center>{{ page.subtitle }}</center></span>
 	    {% endif %}
 	  </div>
     </div>
   </div>
+ </div>
+ 
 </header>
 {% endif %}
 
