@@ -3,7 +3,7 @@
 
 Este es el repositorio de la web del grupo de investigación **Mejora y Biotecnología de Especies Hortofrutícolas (AGR-226)** del [Instituto de Hortofruticultura Subtropical y Mediterránea "La Mayora](http://www.ihsm.uma-csic.es/), un centro mixto entre la [Universidad de Málaga](https://www.uma.es) y el [CSIC](https://www.csic.es).
 
-La nueva versión de la web sustituirá en breve la anterior [web](http://hortofruit.biotec.uma.es/index.htm).
+La nueva versión de la web sustituirá en breve la anterior [web](http://hortofruit.biotec.uma.es/index.htm). d
 
 El sitio web está basado en una plantilla de [*Beautiful Jekyll*](http://deanattali.com/beautiful-jekyll) y [GitHub Pages](https://pages.github.com/).
 
