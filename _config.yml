@@ -31,8 +31,8 @@ navbar-links:
 #  Welcome: "aboutus"
   Noticias / News: "blog"
 #  Master: "master"
-  Publicaciones / Publications: publicaciones.md 
-  Investigación / Research: investigacion.md
+  Publicaciones / Publications: "publicaciones"
+  Investigación / Research: "investigacion"
   Colectivo/Members: 
     - Miembros / Members: "listado"
     - Antiguos Miembros / Old Members: "listado-antiguoal"
