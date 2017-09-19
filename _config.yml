@@ -27,16 +27,18 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Bienvenida/Welcome: ""
+  Bienvenida / Welcome: ""
 #  Welcome: "aboutus"
-  Noticias/News: "blog"
-  Master: "master"
+  Noticias / News: "blog"
+#  Master: "master"
+  Publicaciones / Publications: publicaciones.md 
+  Investigación / Research: investigacion.md
   Colectivo/Members: 
-    - Miembros/Members: "listado"
-    - Antiguos Miembros/Old Members: "listado-antiguoal"
+    - Miembros / Members: "listado"
+    - Antiguos Miembros / Old Members: "listado-antiguoal"
 # Producción/Productivity: "produccion"
 # Internacionalización/Networking: "mapamundi"
-  Galería/Gallery: 
+  Galería / Gallery: 
     - Fresa: "slideshow"
     - Olivo: "slideshow"
     - Aguacate: "slideshow"
