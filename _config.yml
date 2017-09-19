@@ -29,10 +29,12 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Bienvenida / Welcome: ""
 #  Welcome: "aboutus"
-  Noticias / News: "blog"
+#  Noticias / News: "blog"
 #  Master: "master"
-  Publicaciones / Publications: "publicaciones"
-  Investigación / Research: "investigacion"
+  Investigación / Research:
+    - Publicaciones / Publications: "publicaciones"
+    - Investigaciones / Researchs: "investigacion"
+    - Noticias / News: "blog"
   Colectivo/Members: 
     - Miembros / Members: "listado"
     - Antiguos Miembros / Old Members: "listado-antiguoal"
