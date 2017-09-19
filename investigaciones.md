@@ -36,7 +36,6 @@ MEJORA Y BIOTECNOLOGIA DE ESPECIES HORTOFRUTICOLASMEJORA Y BIOTECNOLOGIA DE ESPE
 <p><a href="#Es">Es</a>|<b>En</b></p>
 </center>
 
-
 # IMPROVEMENT AND BIOTECHNOLOGY OF HORTOFRUTICAL SPECIES
 
 
@@ -45,17 +44,16 @@ Research group formed by staff from the UMA and the IFAPACentro de Churriana. At
 
 ## Lines of investigation
 
-Study of the physiology of fruit ripening.
-Genetic improvement of the strawberry. Control of maturation in strawberry by genetic transformation.
-* Genetic transformation techniques in fruit species (olive and avocado).
-* Rejuvenation and micropropagation of woody plants. Somatic embryogenesis.
+	* Study of the physiology of fruit ripening.
+	* Genetic improvement of the strawberry. Control of maturation in strawberry by genetic transformation.
+	* Genetic transformation techniques in fruit species (olive and avocado).
+	* Rejuvenation and micropropagation of woody plants. Somatic embryogenesis.
 
 
 ## Scientific-Technical Services
 
-Control of the maturation of fruits through genetic engineering.
-* Micropropagation of woody plants.
-* Regeneration and genetic transformation of fruit species with genes that confer tolerance
-a pathogen.
+	* Control of the maturation of fruits through genetic engineering.
+	* Micropropagation of woody plants.
+	* Regeneration and genetic transformation of fruit species with genes that confer tolerance a pathogen.
 
 IMPROVEMENT AND BIOTECHNOLOGY OF HORTOFRUTICOLASMEJORA AND BIOTECHNOLOGY SPECIES OF HORTOFRUTICOLASESJORA AND BIOTECNOLOGY OF HORTOFRUTICAL SPECIES
