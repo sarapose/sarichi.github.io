@@ -4,18 +4,8 @@ title: AGR226
 subtitle: Publicaciones / Publications
 ---
 
-<a id="Es"></a>
-<center>
-<p><b>Es</b>|<a href="#En">En</a></p>
-</center>
-______  
- 
-<a id="En"></a>  
-<center>
-<p><a href="#Es">Es</a>|<b>En</b></p>
-</center>
-
 <a id="Años"></a>
+
 <center>
 <p><b>Años</b>|<a href="#2017">2017</a>|<a href="#2016">2016</a>|<a href="#2015">2015</a>|<a href="#2014">2014</a>|<a href="#2013">2013</a>|<a href="#2012">2012</a>|<a href="#2011">2011</a></p>
 </center>
