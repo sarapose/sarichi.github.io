@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AGR226
-subtitle: Publicaciones / Publication
+subtitle: Publicaciones / Publications
 ---
 
 <a id="Años"></a>
