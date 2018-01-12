@@ -7,11 +7,17 @@ subtitle: Proyectos / Projects
 <center><b>Tesis doctorales</b></center>
 
 Título: Embriogénesis somática de guayabo (Psidium guajava L.) 
+
 Doctorando: Jorge Alberto Vilchez Perozo
+
 Directores de tesis :  Fernando Pliego Alfaro, Carolina Sánchez Romero.
+
 Universidad: Córdoba (España) y Zulia (Venezuela)
+
 Facultad / Escuela: Doctorado conjunto: Programa de Biotecnología Agraria
+
 Fecha: Febrero 2016
+
 Calificación:  Sobresaliente cum laude.
 
 ---
