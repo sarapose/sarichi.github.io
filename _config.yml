@@ -31,11 +31,12 @@ navbar-links:
 #  Welcome: "aboutus"
 #  Noticias / News: "blog"
 #  Master: "master"
+  Noticias / News: "blog"
   Investigación / Research:
     - Proyectos / Projects: "proyectos"
     - Publicaciones / Publications: "publicaciones"
     - Investigaciones / Researchs: "investigaciones"
-    - Noticias / News: "blog"
+    - Tesis: "tesis"
   Colectivo/Members: 
     - Miembros / Members: "listado"
     - Antiguos Miembros / Old Members: "listado-antiguoal"
