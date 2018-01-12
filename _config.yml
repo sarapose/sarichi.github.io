@@ -32,6 +32,7 @@ navbar-links:
 #  Noticias / News: "blog"
 #  Master: "master"
   Investigación / Research:
+    - Proyectos / Projects: "proyectos"
     - Publicaciones / Publications: "publicaciones"
     - Investigaciones / Researchs: "investigaciones"
     - Noticias / News: "blog"
