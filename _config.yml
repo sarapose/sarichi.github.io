@@ -36,7 +36,7 @@ navbar-links:
     - Proyectos / Projects: "proyectos"
     - Publicaciones / Publications: "publicaciones"
     - Investigaciones / Researchs: "investigaciones"
-    - Tesis: "tesis"
+    - Tesis / Thesis: "tesis"
   Colectivo/Members: 
     - Miembros / Members: "listado"
     - Antiguos Miembros / Old Members: "listado-antiguoal"

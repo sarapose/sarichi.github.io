@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AGR226
-subtitle: Proyectos / Projects
+subtitle: Tesis / Thesis
 ---
 
 <center><b>Tesis doctorales</b></center>
