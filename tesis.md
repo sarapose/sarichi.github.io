@@ -6,7 +6,7 @@ subtitle: Proyectos / Projects
 
 <center><b>Tesis doctorales</b></center>
 
-Título: Embriogénesis somática de guayabo (Psidium guajava L.)<br>
+<b>Título:</b> Embriogénesis somática de guayabo (Psidium guajava L.)<br>
 Doctorando: Jorge Alberto Vilchez Perozo<br>
 Directores de tesis :  Fernando Pliego Alfaro, Carolina Sánchez Romero.<br>
 Universidad: Córdoba (España) y Zulia (Venezuela)<br>
@@ -16,7 +16,7 @@ Calificación:  Sobresaliente cum laude.<br>
 
 ---
 
-Título: Caracterización de la pared celular de frutos de fresa (Fragaria x ananassa Duch): cambios
+<b>Título:</b> Caracterización de la pared celular de frutos de fresa (Fragaria x ananassa Duch): cambios
 durante el desarrollo y efectos del silenciamiento de un gen de pectato liasa<br>
 Doctoranda: Nieves Santiago Domenech<br>
 Directores de tesis: Miguel Ángel Quesada Felice, Antonio Javier Matas Arroyo<br>
@@ -26,7 +26,7 @@ Calificación:  Sobresaliente cum laude.<br>
 
 ---
 
-Título: Propagación in vitro de zábila (Aloe barbadensis Mill) utilizando retardantes de crecimiento em sistemas de inmersión temporal <br>
+<b>Título:</b> Propagación in vitro de zábila (Aloe barbadensis Mill) utilizando retardantes de crecimiento em sistemas de inmersión temporal <br>
 Doctorando: Nilca Rosa Albany de Vilchez<br>
 Directores de tesis :  Fernando Pliego Alfaro, Alba Nava Fereira.<br>
 Universidad: Córdoba (España) y Zulia (Venezuela)<br>
@@ -36,7 +36,7 @@ Calificación:  Sobresaliente cum laude.<br>
 
 ---
 
-Título: Regeneración, transformación y variación somaclonal en fresa (Fragaria x ananassa Duch).<br> 
+<b>Título:</b> Regeneración, transformación y variación somaclonal en fresa (Fragaria x ananassa Duch).<br> 
 Doctorando: Marta Barceló Muñoz<br> 
 Directores de tesis :  Fernando Pliego Alfaro, Jose Angel Mercado Carmona.<br>
 Universidad: Málaga<br>
@@ -46,7 +46,7 @@ Calificación:  Sobresaliente cum laude.<br>
 
 ---
 
-Título: Rejuvenation and olive micropropagation L.)<br>
+<b>Título:</b> Rejuvenation and olive micropropagation L.)<br>
 Doctorando:  Isabel Vidoy Mercado<br> 
 Universidad: Málaga<br>
 Facultad / Escuela: Ciencias<br>
@@ -55,7 +55,7 @@ Calificación: Apto cum laude.<br>
 
 ---
 
-Título: Olive regeneratión and genetic transformation<br> 
+<b>Título:</b> Olive regeneratión and genetic transformation<br> 
 Doctorando: Sergio Cerezo Medina<br>
 Universidad: Málaga<br>
 Facultad / Escuela: Ciencias<br>
@@ -64,7 +64,7 @@ Calificación: Apto cum laude.<br>
 
 ---
 
-Título: Avocado regeneration and genetic transformation<br> 
+<b>Título:</b> Avocado regeneration and genetic transformation<br> 
 Doctorando: Elena Palomo Ríos<br>
 Universidad: Málaga<br>
 Facultad / Escuela: Ciencias<br>
