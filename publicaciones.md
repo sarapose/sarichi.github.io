@@ -6,7 +6,6 @@ subtitle: Publicaciones / Publications
 
 <a id="Años"></a>
 <center><p><b>Años</b></p></center>
-
 <center>
 <p><a href="#2018">2018</a>|<a href="#2017">2017</a>|<a href="#2016">2016</a>|<a href="#2015">2015</a>|<a href="#2014">2014</a>|<a href="#2013">2013</a>|<a href="#2012">2012</a>|<a href="#2011">2011</a></p>
 </center>
