@@ -14,8 +14,8 @@ ______
 <a id="2017"></a>  
 <center>
 <p><a href="#Años">Años</a>|<b>2017</b></p>
+</center>
 
-<p>
 Capel C, FJ Yuste-Lisbona, G López-Casado, T Angosto, A Heredia, … 2017. QTL mapping of fruit mineral contents provides new chances for molecular breeding of tomato nutritional traits. Theoretical and Applied Genetics. 130 (5), 903-913.
 
 Capel C, FJ Yuste-Lisbona, G López-Casado, T Angosto, J Cuartero, … 2017. Multi-environment QTL mapping reveals genetic architecture of fruit cracking in a tomato RIL Solanum lycopersicum× S. pimpinellifolium population. Theoretical and Applied Genetics. 130 (1), 213-222.
@@ -32,8 +32,6 @@ Paniagua C, N Santiago-Doménech, AR Kirby, AP Gunning, VJ Morris, … 2017. Str
 
 Torode, T. A., O'Neill, R. E., Marcus, S. E., Cornuault, V., Pose-Albacete, S., Lauder, R. P., ... & Braybrook, S. A. 2017. Branched pectic galactan in phloem-sieve-element cell walls: implications for cell mechanics. Plant Physiology. 175 (3), pp-01568.
 
-</p>
-</center>
 ---
 <a id="2016"></a>  
 <center>
