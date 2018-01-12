@@ -4,7 +4,7 @@ title: AGR226
 subtitle: Proyectos / Projects
 ---
 
-<center>### Tesis doctorales</center>
+<center><br>Tesis doctorales</br></center>
 
 <b>Título:</b> Embriogénesis somática de guayabo (Psidium guajava L.)<br>
 Doctorando: Jorge Alberto Vilchez Perozo<br>
